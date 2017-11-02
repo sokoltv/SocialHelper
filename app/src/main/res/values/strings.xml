@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Social Phobia</string>
+    <string name="avtobusbt_text">Транспорт</string>
+    <string name="magaz_text">Общее</string>
+    <string name="T1avbs_text">На следующий</string>
+    <string name="T2avbs_text">Откройте</string>
+    <string name="T3avbs_text">Закройте окно</string>
+    <string name="tv1_text">Касса</string>
+    <string name="tv2_text">Общее</string>
+    <string name="tv3_text">Пакет</string>
+    <string name="tv4_text">Окно:</string>
+    <string name="all1Kassabt1_text">Привет</string>
+    <string name="allja_text">Да</string>
+    <string name="allsorry_text">Прости</string>
+    <string name="allnein_text">Нет</string>
+    <string name="allposledniy_text">Очередь</string>
+    <string name="allgoodday_text">Добрый День</string>
+    <string name="allgoodevening_text">Добрый Вечер</string>
+    <string name="allmore_text">Ещё</string>
+    <string name="allzavtraTime_text">Время</string>
+    <string name="kassapreziki_text">Презики</string>
+    <string name="kassabezdacha_text">Без Сдачи</string>
+    <string name="kassaspasibo_text">Спасибо</string>
+    <string name="kassaPoka_text">Пока</string>
+    <string name="kassaNujen_text">Нужен</string>
+    <string name="kassaNeNujen_text">Не нужен</string>
+    <string name="AftobusSledOstan_text">На Следующий!</string>
+    <string name="AftobusOknoDuet_text">Закройте</string>
+    <string name="AftobusOknoJarko_text">Откройте</string>
+    <string name="rate_text">Оценить</string>
+    <string name="play_text">Невозможно открыть Google Play, возможно он не установлен</string>
+    <string name="love_text">Я люблю тебя</string>
+    <string name="listan_text">Слушай</string>
+    <string name="mcdak_text">Работа</string>
+    <string name="che_text">Чё!</string>
+    <string name="cheee_text">Чооо!</string>
+    <string name="gohome_text">Я домой</string>
+    <string name="slish_text">Слышь!!!</string>
+
+
+
+    <string name="banner_ad_unit_id">ca-app-pub-1023864621269694/4472071769</string>
+</resources>
