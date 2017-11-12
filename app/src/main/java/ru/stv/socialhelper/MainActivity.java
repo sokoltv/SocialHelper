@@ -124,14 +124,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
-// Реклама
-        mAdView = (AdView) findViewById(R.id.ad_view);
 
-        AdRequest adRequest = new AdRequest.Builder()
-                .addTestDevice("A0E5E3EEA0D0AB9860FE3A909065E221")
-                .build();
-        // Start loading the ad in the background.
-        mAdView.loadAd(adRequest);
 
         // Раздел загрузки звуков
         hellosp = new SoundPool(MAX_STREAMS, AudioManager.STREAM_MUSIC, 0);
